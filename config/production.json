@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://marxyng:Itachi1030@devconnector.w1qnc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "32d704f5a7754458636f",
+    "githubSecret": "3334c0581198d8b603c643fb0bfc325182dda035"
+}
